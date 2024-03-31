@@ -1,4 +1,3 @@
-
 .projectContact {
     width: 80%; /* Set the width of the box */
     height: 200%; /* Set the height of the box */
@@ -27,31 +26,9 @@
 }
 
 
-button {
 
-    text-decoration: none;
-    background-color: transparent; 
-    color: var(--white-100); /* Button text color */
-    padding: 10px 60px; /* Padding inside the button */
-    border-radius: 10px; /* rounded corners */
 
-    border: 1px solid #ffffff; /* border */
-	box-shadow: 0.5em 0.5em var(--white-100);
 
-    cursor: pointer; /* Change cursor to pointer on hover */
-    transition: background-color 0.3s; /* Smooth transition for background color */
-
-	margin: 10%;
-	flex-wrap: 100%;
-	flex-grow: 100%;
-	
-}
-
-button:hover {
-    background-color: #007bff; /* Change background color on hover */
-    color: #fff; /* Change text color on hover */
-	border-radius: 10px;
-}
 
 
 
@@ -68,33 +45,57 @@ nav div a:nth-child(5) { /* Selects the second <a> element */
 
 
 
+  button {
+	color: var(--white-100);
+	background-color: var(--blue-500);
+    margin-right: 10%;
+	border-radius: 2dvb;
+	border-color: var(--white-100);
+	width: 35dvb;
+	height: 9dvb;
+	font-family: sans-serif;
+	font-weight: bolder;
+    box-shadow: 0.5em 0.5em var(--white-100);
 
-  .form-container {
-	width: 50%;
-	margin: 50px auto;
-	background-color: #fff;
-	padding: 20px;
-	border-radius: 5px;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  .form-group {
-	margin-bottom: 80px;
+
+	margin: 2%;
+	justify-content: center;
+
+	button {
+
+		text-decoration: none;
+		background-color: transparent; 
+		color: var(--white-100); /* Button text color */
+		padding: 10px 60px; /* Padding inside the button */
+		border-radius: 10px; /* rounded corners */
 	
-  }
-  
-  label {
-	font-weight: bold;
-  }
-  
-  input[type="text"],
-  input[type="email"],
-  textarea {
-	width: 100%;
-	padding: 10px;
-	border: 1px solid #ccc;
-	border-radius: 5px;
-  }
+		border: 1px solid #ffffff; /* border */
+		box-shadow: 0.5em 0.5em var(--white-100);
+	
+		cursor: pointer; /* Change cursor to pointer on hover */
+		transition: background-color 0.3s; /* Smooth transition for background color */
+	
+
+		
+	}
+
+
+
+
+
+
+
+}
+
+button:hover {
+	border-radius: 3dvb;
+    border-color: var(--blue-500);
+    color: var(--blue-500);
+    background-color: var(--blue-300);
+    box-shadow: 0.5em 0.5em var(--blue-100);
+
+}
+
 
 
 
