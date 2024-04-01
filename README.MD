@@ -120,20 +120,17 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 
 ### Screenshots of Deployed Site
 
-Home 
 - [Homepage:moblie](./assets/mobilewireframes/Screenshothome.jpg)
    - [Homepage:desktop](./assets/desktopwireframes/Screenshotdeskhome.png)
 
-Sub-Page:
 - [About](./assets/mobilewireframes/Screenshotabout.jpg)
    - [About:desktop](./assets/desktopwireframes/Screenshotdeskabout.png)
 
-Sub-Page:
+
 - [Portfolio](./assets/mobliewireframes/screenshotportfolio.jpg)
    - [Portfolio: Desktop](./assets/desktopwireframes/Screenshotdeskportfolio.png)
    - [Hover State](./assets/mobilewireframes/Screenshotdeskportfoliohover.jpg)
 
-Sub-Pages:
 - [Blog](./docs/screenshots/blog.png)
    - [Portfolio: Desktop](./assets/desktopwireframes/Screenshotdeskportfolio.png)
 
@@ -149,10 +146,32 @@ Sub-Pages:
             - [Moblie Blog Page/ Project F](./assets/mobilewireframes/ScreenshotblogE.jpg)
 
 
-Sub-Page:
-- [Contact](./assets/mobilewireframes/contact.jpg)
-    - [Contact: desktop](./assets/desktopwireframes/screenshotcontact.jpg)
 
+- [Contact](./assets/mobilewireframes/contact.jpg)
+    - [Contact: desktop](./assets/desktopwireframes/Screenshotdeskportfolio.png)
+
+
+
+### **Screenshots**
+
+- Homepage Screenshot 
+![home-screenshot](./docs/screenshots/home-phone.png) 
+![home-screenshot](./docs/screenshots/home.png)
+
+- About Screenshot
+![about-screenshot](./docs/screenshots/about.png)
+
+- Project Screenshot
+![project-screenshot](./docs/screenshots/project.png)
+
+- Blog Screenshot
+![blog-screenshot](./docs/screenshots/blog.png)
+
+- Blog Page Screenshot
+![blog-page-screenshot](./docs/screenshots/blog-page.png)
+
+- Contact Screenshot
+![contact-screenshot](./docs/screenshots/contact.png)
 
 
 
