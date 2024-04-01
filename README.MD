@@ -24,7 +24,7 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 
 <br>
 
-- [Video Presentation](https://github.com/Hannah-codding/HannahLawrence_T1A2.git)
+- [Video Presentation](https://youtu.be/u2Gp8aga6a4)
 
 
 #### Additional Links 
