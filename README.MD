@@ -37,7 +37,7 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 
 ## Sitemap
 
-![sitemap](./docs/SITE%20MAPS.jpg)
+![sitemap](./docs/SITEMAPS.jpg)
 
 
 ### Sitemap Detailed Explanation 
