@@ -65,7 +65,7 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 
 ## Wireframes
 
-- Mobile View: [MobileWireframes](./assets/mobilewireframes/mobile.pdf)
+- Mobile View: [MobileWireframes](./assets/mobilewireframes/moblie.pdf)
 
 
 - Desk Top: [DesktopWireframes](./assets/desktopwireframes/desktop.pdf)
