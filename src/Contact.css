@@ -1,0 +1,176 @@
+
+.projectContact {
+    width: 80%; /* Set the width of the box */
+    height: 100%; /* Set the height of the box */
+	justify-content: center;
+	align-self: center;
+
+    padding: 2%; /* padding inside the box */
+	padding-bottom: 5px;
+
+    /* border: 2px solid var(--blue-400);   border */
+    border-radius: 10px; /* Add rounded corners */
+
+	color: var(--black-100); /* Text colour within box */
+
+    background-color: var(--blue-500); /* Set the background color */
+	
+	margin-bottom: 5dvb; /* Creating space between boxes */
+
+
+	
+}
+
+#Contact {
+	text-decoration: none; /* Remove underline from all linked text */
+	color: #ffffff;
+
+}
+
+
+
+
+
+h3 {
+
+	font-weight: lighter;
+
+}
+
+
+.box {
+	margin: 0.5%;
+	
+
+}
+
+
+#info {
+	height: 100%;
+    width: 100%;
+	border-radius: 2em;
+    max-width: 70dvw;
+
+	flex-direction: column;
+	align-items: flex-start;
+
+	margin-top: 6dvb;
+	margin-bottom: 5dvh;
+}
+
+
+
+
+
+
+
+
+
+/* Using flex to install an image to the top  of the about page  */
+
+.flex-container {
+    width: 100%; 
+    height: 35vh; 
+    position: relative; /* Important to make retative and not absolute to allow for scrolling  */
+    background-image: url('../assets/PROFILE.jpg');
+    background-size: auto 100%; 
+    background-position: center top; 
+  }
+
+.flex-container::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover; 
+  background-position: center; 
+}
+
+/* Adjust the background image for pseudo-element- this was the only way i could get the image to sit within the container in the way i wanted */
+
+.flex-container::after {
+  background-image: url('../assets/IMAGE.jpg');
+}
+
+
+
+
+
+
+
+
+
+
+
+nav div a:nth-child(5) { /* Selects the second <a> element */
+    color: var(--blue-100);
+  }
+
+
+
+
+
+
+
+
+
+
+  button {
+	color: var(--white-100);
+	background-color: var(--blue-500);
+    margin-right: 10%;
+	border-radius: 2dvb;
+	border-color: var(--white-100);
+	width: 35dvb;
+	height: 9dvb;
+	font-family: sans-serif;
+	font-weight: bolder;
+    box-shadow: 0.5em 0.5em var(--white-100);
+
+
+	margin: 2%;
+	justify-content: center;
+
+
+}
+
+button:hover {
+	border-radius: 3dvb;
+    border-color: var(--blue-500);
+    color: var(--blue-500);
+    background-color: var(--blue-300);
+    box-shadow: 0.5em 0.5em var(--blue-100);
+
+}
+
+
+
+
+/* Desktop view */
+@media screen and (min-width: 600px) {
+	.contentRow {
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+		padding: 0;
+	}
+
+	main {
+		margin: 0;
+		padding: 0;
+
+	}
+
+	.projectPreview {
+		width: 30dvw;
+		margin: 1em;
+		
+	}
+
+	hr {
+		width: 60%;
+	}
+}
