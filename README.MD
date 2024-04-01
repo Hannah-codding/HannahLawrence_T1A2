@@ -68,7 +68,9 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 - Mobile View: [MobileWireframes](./assets/mobilewireframes/mobile.pdf)
 
 
-- Desk Top: [DesktopWireframes](./assets/desktopwireframes/desktop.pdf.pdf)
+- Desk Top: [DesktopWireframes](./assets/desktopwireframes/desktop.pdf)
+
+
 
 - Each wireframe provides a visual representation of the corresponding page layout. See screenshots to see how these appear within deployment. 
 
@@ -152,29 +154,6 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 
 
 
-### **Screenshots**
-
-- Homepage Screenshot 
-![home-screenshot](./docs/screenshots/home-phone.png) 
-![home-screenshot](./docs/screenshots/home.png)
-
-- About Screenshot
-![about-screenshot](./docs/screenshots/about.png)
-
-- Project Screenshot
-![project-screenshot](./docs/screenshots/project.png)
-
-- Blog Screenshot
-![blog-screenshot](./docs/screenshots/blog.png)
-
-- Blog Page Screenshot
-![blog-page-screenshot](./docs/screenshots/blog-page.png)
-
-- Contact Screenshot
-![contact-screenshot](./docs/screenshots/contact.png)
-
-
-
 ## Tech Stack
 
 ### Coding Platform
@@ -213,5 +192,6 @@ This site was designed the the *purpose* of providing oppitunitities for employm
      - Used to source some of the HEX codes
 - Pintrest 
     - Used to inspire the sites design and framework. Saved a wide range of low fadelity sites that conveyed a professional feel. 
+
 
 
