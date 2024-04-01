@@ -120,12 +120,41 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 
 ### Screenshots of Deployed Site
 
-- [Homepage](./docs/screenshots/home.png)
-- [About](./docs/screenshots/about.png)
-- [Project](./docs/screenshots/project.png)
+Home 
+- [Homepage:moblie](./assets/mobilewireframes/Screenshothome.jpg)
+   - [Homepage:desktop](./assets/desktopwireframes/Screenshotdeskhome.png)
+
+Sub-Page:
+- [About](./assets/mobilewireframes/Screenshotabout.jpg)
+   - [About:desktop](./assets/desktopwireframes/Screenshotdeskabout.png)
+
+Sub-Page:
+- [Portfolio](./assets/mobliewireframes/screenshotportfolio.jpg)
+   - [Portfolio: Desktop](./assets/desktopwireframes/Screenshotdeskportfolio.png)
+   - [Hover State](./assets/mobilewireframes/Screenshotdeskportfoliohover.jpg)
+
+Sub-Pages:
 - [Blog](./docs/screenshots/blog.png)
-- [Blog Page](./docs/screenshots/blog-page.png)
-- [Contact](./docs/screenshots/contact.png)
+   - [Portfolio: Desktop](./assets/desktopwireframes/Screenshotdeskportfolio.png)
+
+      - [Desktop Blog Page/Project A](./assets/desktopwireframes/Screenshotprojecta.jpg)
+            - [Moblie Blog Page/ Project A](./assets/mobilewireframes/ScreenshotblogA.jpg)
+      - [Desktop Blog Page/ Project B](./assets/desktopwireframes/Screenshotprojectb.jpg)
+            - [Moblie Blog Page/ Project B](./assets/mobilewireframes/ScreenshotblogB.jpg)
+      - [Desktop Blog Page/ Project C](./assets/desktopwireframes/Screenshotprojectc.jpg)
+            - [Moblie Blog Page/ Project C](./assets/mobilewireframes/ScreenshotblogC.jpg)
+      - [Desktop Blog Page/ Project E](./assets/desktopwireframes/Screenshotprojectd.jpg)
+            - [Moblie Blog Page/ Project E](./assets/mobilewireframes/ScreenshotblogD.jpg)
+      - [Desktop Blog Page/ Project F](./assets/desktopwireframes/Screenshotprojecte.jpg)
+            - [Moblie Blog Page/ Project F](./assets/mobilewireframes/ScreenshotblogE.jpg)
+
+
+Sub-Page:
+- [Contact](./assets/mobilewireframes/contact.jpg)
+    - [Contact: desktop](./assets/desktopwireframes/screenshotcontact.jpg)
+
+
+
 
 ## Tech Stack
 
@@ -165,3 +194,5 @@ This site was designed the the *purpose* of providing oppitunitities for employm
      - Used to source some of the HEX codes
 - Pintrest 
     - Used to inspire the sites design and framework. Saved a wide range of low fadelity sites that conveyed a professional feel. 
+
+
