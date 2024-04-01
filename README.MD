@@ -28,7 +28,7 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 
 
 #### Additional Links 
-- [Presentation Slide Deck](https://github.com/Hannah-codding/HannahLawrence_T1A2.git)
+- [Presentation Slide Deck](./docs/PortfolioWebsite.pptx)
 
 - [Pintrest Board](https://pin.it/6fFBCMTg1)
 
