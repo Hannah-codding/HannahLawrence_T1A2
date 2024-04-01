@@ -80,7 +80,7 @@ This site was designed the the *purpose* of providing oppitunitities for employm
 - Navigation and main/content areas highlighted with contrasting colors.
 - Designed for readability and hierarchy, with bold headings and smaller text for less important content.
 
-![Design Thinking](./docs/Designthinking.jpg)
+![Design Thinking](./docs/DESIGNTHINKING.jpg)
 
 #### Fonts 
 - Selected for character and to add a 'clean' professional feel.
